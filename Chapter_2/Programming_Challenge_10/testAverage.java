@@ -3,7 +3,7 @@ import java.util.*;
 Programming Challenge 10
 
 Write a program that asks the user to enter three test scores. The program should display
-each test score, as well as the average of the scores.
+each test score, as well as the average of the scores
 */
 
 public class testAverage{
