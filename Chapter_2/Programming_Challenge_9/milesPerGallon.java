@@ -17,10 +17,10 @@ public class milesPerGallon{
         Scanner input = new Scanner(System.in); // our Scanner object allows for user input
         
         System.out.println("Enter number of miles driven: ");
-        double miles = input.nextInt(); 
+        double miles = input.nextDouble(); 
         
         System.out.println("Enter gallons of gas used: "); 
-        double gallons = input.nextInt();
+        double gallons = input.nextDouble();
         
         double mpg = miles/gallons; // mpg formula used
         
