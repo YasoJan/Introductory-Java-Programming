@@ -1,4 +1,4 @@
-## Overview
+## Starting Out With Java: From Control Structures through Objects
 This repository contains solutions to the programming challenges in the 6th edition of Tony Gaddis' introductory Java textbook, "Starting Out with Java: From Control Structures through Objects." The solutions are organized by chapter, with each challenge corresponding to a specific programming problem in the book.
 
 This repository serves as a resource for anyone studying Java programming, as it provides a practical way to apply the concepts learned in the textbook. The code is written in a clear and concise manner, with comments explaining the thought process and reasoning behind each solution.
